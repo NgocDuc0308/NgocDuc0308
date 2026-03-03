@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://cdn.wallpapersafari.com/92/67/xhg7O9.gif" 
+    src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" 
     width="100%"
   />
 </p>
