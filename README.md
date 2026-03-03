@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://64.media.tumblr.com/86c13dec7f8bdc6a0fdea4cfb1255a63/tumblr_ok3oo10P3q1rnbw6mo1_1280.gif" 
+    src="https://cdn.wallpapersafari.com/92/67/xhg7O9.gif" 
     width="100%"
   />
 </p>
