@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://static.vecteezy.com/system/resources/thumbnails/023/596/443/small_2x/neon-glow-beach-a-stunningly-luminous-background-ai-generative-photo.jpg" 
+    src="https://www.shutterstock.com/shutterstock/videos/3680820963/thumb/10.jpg?ip=x480" 
     width="100%"
   />
 </p>
