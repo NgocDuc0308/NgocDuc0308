@@ -13,7 +13,7 @@
 
 # 👨‍🎨 About Me
 
-🎓 Fresh Graduate passionate about UX/UI Design  
+🎓 Fresh Graduate passionate about UX/UI Design and Frontend Developer
 🎯 Focused on crafting intuitive and meaningful digital experiences  
 🧠 Interested in User Research, Interaction Design & Prototyping  
 
@@ -49,21 +49,23 @@ I believe great design is not just beautiful — it's usable, accessible, and hu
 
 # 🚀 Featured Projects
 
-## 📱 Mobile Banking App Redesign
-- Conducted user research  
+## 📱 Mobile Rentroom App Redesign
+- Conducted user research with 5 participants  
 - Designed wireframes & high-fidelity prototypes in Figma  
-- Improved usability & task completion flow  
+- Improved usability & task completion flow
+- This application uses the Java language
 
-🔗 Case Study: [Your Link Here]
+🔗 Case Study: [https://github.com/NgocDuc0308/Rentroom-App]
 
 ---
 
-## 🛍 E-commerce Website UX Optimization
-- Redesigned checkout experience  
-- Reduced friction in purchase flow  
-- Created responsive UI system  
+## 🛍 Flutter Table Reservation App
+- Conducted user research with 4 participants  
+- Designed wireframes & high-fidelity prototypes in Figma  
+- Improved usability & task completion flow
+- The application was written in Dart
 
-🔗 Case Study: [Your Link Here]
+🔗 Case Study: [https://github.com/NgocDuc0308/my_flutter_app_dat_ban]
 
 ---
 
@@ -81,9 +83,9 @@ I believe great design is not just beautiful — it's usable, accessible, and hu
 
 # 📫 Connect With Me
 
-📧 Email: your.email@gmail.com  
-🌐 Portfolio: https://your-portfolio-link.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
+📧 Email: duct4291@gmail.com  
+🌐 Portfolio: ...  
+💼 LinkedIn: ...  
 
 ---
 
