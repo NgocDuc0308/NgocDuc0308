@@ -1,9 +1,7 @@
 <p align="center">
   <img 
-    src="https://cdn.svgator.com/images/2022/03/color-banding-gradient-animation.png" 
-    width="100%" 
-    height="230px"
-    style="object-fit: cover; border-radius: 16px;"
+    src="https://static.vecteezy.com/system/resources/thumbnails/023/596/443/small_2x/neon-glow-beach-a-stunningly-luminous-background-ai-generative-photo.jpg" 
+    width="100%"
   />
 </p>
 
