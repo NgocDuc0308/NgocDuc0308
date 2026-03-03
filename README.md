@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://cdn.svgator.com/images/2022/03/color-banding-gradient-animation.png" width="50%" />
+  <img 
+    src="https://cdn.svgator.com/images/2022/03/color-banding-gradient-animation.png" 
+    width="100%" 
+    height="250px"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Ngoc Duc 👋</h1>
