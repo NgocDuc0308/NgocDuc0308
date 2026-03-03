@@ -1,10 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=Hi,%20I'm%20Ngoc%20Duc&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://cdn.svgator.com/images/2022/03/color-banding-gradient-animation.png" width="100%" />
+</p>
 
-# 👋 About Me
+<h1 align="center">Hi, I'm Ngoc Duc 👋</h1>
 
-🎓 Fresh Graduate | UX/UI Designer | Frontend Developer  
-🎯 Passionate about crafting intuitive & meaningful digital experiences  
-🧠 Strong interest in User Research, Interaction Design & Prototyping  
+<h3 align="center">UX/UI Designer | Fresh Graduate</h3>
+
+---
+
+# 👨‍🎨 About Me
+
+🎓 Fresh Graduate passionate about UX/UI Design  
+🎯 Focused on crafting intuitive and meaningful digital experiences  
+🧠 Interested in User Research, Interaction Design & Prototyping  
 
 I believe great design is not just beautiful — it's usable, accessible, and human-centered.
 
@@ -12,7 +20,7 @@ I believe great design is not just beautiful — it's usable, accessible, and hu
 
 # 🎨 Design Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,notion" />
 </p>
 
@@ -38,23 +46,21 @@ I believe great design is not just beautiful — it's usable, accessible, and hu
 
 # 🚀 Featured Projects
 
-## 📱 Mobile Rentroom App Redesign
-- Conducted user research with 5 participants  
+## 📱 Mobile Banking App Redesign
+- Conducted user research  
 - Designed wireframes & high-fidelity prototypes in Figma  
-- Improved usability & task completion flow
-- Mobile application development using Java language
+- Improved usability & task completion flow  
 
-🔗 Case Study: [https://github.com/NgocDuc0308/Rentroom-App]
+🔗 Case Study: [Your Link Here]
 
 ---
 
-## 📱 Flutter Table Reservation App
-- Conducted user research with 4 participants  
-- Designed wireframes & high-fidelity prototypes in Figma  
-- Improved usability & task completion flow
-- Mobile application development using Dart language
+## 🛍 E-commerce Website UX Optimization
+- Redesigned checkout experience  
+- Reduced friction in purchase flow  
+- Created responsive UI system  
 
-🔗 Case Study: [https://github.com/NgocDuc0308/my_flutter_app_dat_ban]
+🔗 Case Study: [Your Link Here]
 
 ---
 
@@ -70,29 +76,14 @@ I believe great design is not just beautiful — it's usable, accessible, and hu
 
 ---
 
-# 📈 Currently Learning
-
-- Advanced UX Research Methods  
-- Accessibility (WCAG)  
-- Motion UI  
-- Micro-interactions  
-
----
-
 # 📫 Connect With Me
 
-📧 Email: duct4291@gmail.com 
-🌐 Portfolio: ...
-💼 LinkedIn: ...
+📧 Email: your.email@gmail.com  
+🌐 Portfolio: https://your-portfolio-link.com  
+💼 LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
 
 # 💡 Design Philosophy
 
 > "Good design is invisible — it works naturally."
-
-I focus on clarity, usability, accessibility, and emotional connection in every interface I design.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer"/>
