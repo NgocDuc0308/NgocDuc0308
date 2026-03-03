@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=280&section=header&text=Hi,%20I'm%20Ngoc%20Duc&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Hi,%20I'm%20Ngoc%20Duc&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 
 # 👋 About Me
 
