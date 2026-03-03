@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://cdn.svgator.com/images/2022/03/color-banding-gradient-animation.png" width="100%" />
+  <img src="https://cdn.svgator.com/images/2022/03/color-banding-gradient-animation.png" width="50%" />
 </p>
 
 <h1 align="center">Hi, I'm Ngoc Duc 👋</h1>
 
-<h3 align="center">UX/UI Designer | Fresh Graduate</h3>
+<h3 align="center">Fresh Graduate | UX/UI Designer | Frontend Developer</h3>
 
 ---
 
