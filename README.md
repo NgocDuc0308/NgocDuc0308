@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://images.spiderum.com/sp-images/e23fb6106b6311e79bfac15c19b53ca4.png" 
+    src="https://i.pinimg.com/originals/e4/27/8f/e4278f35dfc32b3970459ea2e25e066e.gif" 
     width="100%"
   />
 </p>
